@@ -14,6 +14,6 @@ ECE graduate from the Technical University of Crete, interested in **computer ar
 ### 📌 Highlights
 - [Pipelined MIPS-like processor in VHDL](https://github.com/nmalamas/Computer-Organization)
 - [TinyOS-3 kernel extensions in C](https://github.com/nmalamas/Operating-Systems)
-- [Distributed skyline queries on Flink](https://github.com/nmalamas/REPO-NAME)
+- [CMOS characterization]([https://github.com/nmalamas/REPO-NAME](https://github.com/nmalamas/CMOS-Analog-Design))
 
-📫 [LinkedIn](https://linkedin.com/in/...) · [Website](https://nmalamas.github.io) · nickolasmalamas@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/) · [Website](https://nmalamas.github.io) · nickolasmalamas@gmail.com
