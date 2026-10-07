@@ -1,4 +1,4 @@
-# Hi, I'm Nikolaos Malamas 👋
+# Nikolaos Malamas
 
 ECE graduate from the Technical University of Crete, interested in **computer architecture, FPGA / digital design, HW/SW co-design and high-performance computing**.
 
@@ -7,7 +7,7 @@ ECE graduate from the Technical University of Crete, interested in **computer ar
 - 📄 Co-author: *A Lattice-Boltzmann PI controller approach for constant flux immiscible two-phase flows in porous media*
 
 ### 🛠️ Tech
-**Hardware:** VHDL · Xilinx Vivado · Xschem · Ngspice
+**Hardware:** VHDL · Xilinx ISE · Xschem · Ngspice
 **Low-level & parallel:** C · Assembly · Fortran · MPI · OpenMP · Score-P · Scalasca
 **Other:** Python · MATLAB · Java · Apache Flink · Linux · LaTeX
 
